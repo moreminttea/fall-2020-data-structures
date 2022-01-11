@@ -1,1 +1,2 @@
-# fall-2020-data-structures
+# Data Structures (Fall 2020)
+- Languages: C++
