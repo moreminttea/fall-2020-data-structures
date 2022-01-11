@@ -1,0 +1,45 @@
+{
+  "01": {
+    "key": 60,
+    "operation": "Insert"
+  },
+  "02": {
+    "key": 57, 
+    "operation": "Insert"
+  },
+  "03": {
+    "key": 63,
+    "operation": "Insert"
+  },
+  "04": {
+    "key": 70,
+    "operation": "Insert"
+  },
+  "05": {
+    "key": 50,
+    "operation": "Insert"
+  },
+  "06": {
+    "key": 52,
+    "operation": "Insert"
+  },
+  "07": {
+    "key": 67,
+    "operation": "Insert"
+  },
+  "08": {
+    "key": 69,
+    "operation": "Insert"
+  },
+  "09": {
+    "key": 85,
+    "operation": "Insert"
+  },
+  "10": {
+    "key": 51,
+    "operation": "Insert"
+  },
+  "metadata": {
+    "numOps": 10
+  }
+}
